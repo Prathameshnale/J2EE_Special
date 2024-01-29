@@ -7,7 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-<div align="center">
+//<div align="center">
+
+
 	<form action="saveLeave" method="post">
 	Empno<input type="number" name="emp_no" placeholder="Enter emp Id" required><br><br>
 	Start Date<input type="date" name="start_date" placeholder="Enter start_date" required><br><br>
