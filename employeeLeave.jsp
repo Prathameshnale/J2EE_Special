@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-//<div align="center">
+<div align="center">
 
 
 	<form action="saveLeave" method="post">
