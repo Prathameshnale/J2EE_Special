@@ -12,6 +12,5 @@ public class XYZ_Company_MVC {
 		SpringApplication.run(XYZ_Company_MVC.class,args);
 		
 	}
-//
 }
 
